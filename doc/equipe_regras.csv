@@ -1,0 +1,166 @@
+﻿equipe_key,equipe_origem,equipe_padrao,grupo_equipe,tipo_equipe,localidade,gestor,supervisor,segmento,eh_equipe,equipe_pai
+a s impulso 2,A S Impulso 2,Equipe Especial,Equipe Especial,Externa,A S Impulso 2,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+a s impulso 3,A S Impulso 3,Equipe Especial,Equipe Especial,Externa,A S Impulso 3,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+a s impulso 4,A S Impulso 4,Equipe Especial,Equipe Especial,Externa,A S Impulso 4,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+a s impulso 5,A S Impulso 5,Equipe Especial,Equipe Especial,Externa,A S Impulso 5,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+abolicao,Abolição,Abolição,Outras Equipes Externas,Externa,Abolição,,,Alimento,,
+ali niorte,Ali Niorte,Ali Niorte,Outras Equipes Externas,Externa,Ali Niorte,,,Alimento,,
+araruama,Araruama,Araruama,Outras Equipes Externas,Externa,Araruama,,,Alimento,,
+araruama,Araruama,Araruama,Outras Equipes Externas,Externa,Araruama,,,Alimento,,
+arraial do cabo,Arraial do Cabo,Arraial Do Cabo,Outras Equipes Externas,Externa,Arraial Do Cabo,,,Alimento,,
+austim,Austim,Austim,Outras Equipes Externas,Externa,Austim,,,Alimento,,
+austim,Austim,Austim,Outras Equipes Externas,Externa,Austim,,,Alimento,,
+auto servico 01,Auto Serviço 01,Equipe Especial,Equipe Especial,Externa,Auto Serviço 01,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+auto servico 05,Auto Serviço 05,Equipe Especial,Equipe Especial,Externa,Auto Serviço 05,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+b gavea / ipanema,B Gavea / Ipanema,B Gavea/Ipanema,Outras Equipes Externas,Externa,B Gavea/Ipanema,,,Alimento,,
+b gavea / ipanema,B Gavea / Ipanema,B Gavea/Ipanema,Outras Equipes Externas,Externa,B Gavea/Ipanema,,,Alimento,,
+bangu,Bangu,Consumo Oeste,Outras Equipes Externas,Externa,Bangu,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+bonsucesso,Bonsucesso,Consumo Zona Norte,Outras Equipes Externas,Externa,Bonsucesso,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+consumo baixada,CONSUMO BAIXADA,Consumo Baixada,Equipes Consumo,Externa,Consumo Baixada,Marcelo Neves,,Alimento,True,
+consumo niteroi,CONSUMO NITEROI,Consumo Niteroi,Equipes Consumo,Externa,Consumo Niteroi,Marcelo Neves,Fabio Antonio Rosa Magalhaes,Alimento,True,
+consumo oeste,CONSUMO OESTE,Consumo Oeste,Equipes Consumo,Externa,Consumo Oeste,Marcelo Neves,Marcelo Martins Da Costa,Alimento,True,
+consumo oeste,CONSUMO OESTE,Consumo Oeste,Equipes Consumo,Externa,Consumo Oeste,Marcelo Neves,Marcelo Martins Da Costa,Alimento,True,
+consumo zona norte,CONSUMO ZONA NORTE,Consumo Zona Norte,Equipes Consumo,Externa,Consumo ZONA Norte,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,True,
+consumo zona norte,CONSUMO ZONA NORTE,Consumo Zona Norte,Equipes Consumo,Externa,Consumo ZONA Norte,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,True,
+cabo frio,Cabo Frio,Cabo Frio,Outras Equipes Externas,Externa,Cabo Frio,,,Alimento,,
+cabo frio,Cabo Frio,Cabo Frio,Outras Equipes Externas,Externa,Cabo Frio,,,Alimento,,
+campo grande,Campo Grande,Consumo Oeste,Outras Equipes Externas,Externa,Campo Grande,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+campo grande,Campo Grande,Consumo Oeste,Outras Equipes Externas,Externa,Campo Grande,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+campos elisios,Campos Elísios,Campos Elísios,Outras Equipes Externas,Externa,Campos Elísios,,,Alimento,,
+campos elisios,Campos Elísios,Campos Elísios,Outras Equipes Externas,Externa,Campos Elísios,,,Alimento,,
+cavalcante,Cavalcante,Cavalcante,Outras Equipes Externas,Externa,Cavalcante,,,Alimento,,
+cavalcanti,Cavalcanti,Consumo Zona Norte,Outras Equipes Externas,Externa,Cavalcanti,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+centro,Centro,Consumo Zona Norte,Outras Equipes Externas,Externa,Centro,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+colegio,Colégio,Colégio,Outras Equipes Externas,Externa,Colégio,,,Alimento,,
+conveniencia farma 14,Conveniencia Farma 14,Conveniencia Farma 14,Outras Equipes Externas,Externa,Conveniencia Farma 14,,,Alimento,,
+conveniencia farma 15,Conveniencia Farma 15,Conveniencia Farma 15,Outras Equipes Externas,Externa,Conveniencia Farma 15,,,Alimento,,
+conveniencia farma 19,Conveniencia Farma 19,Conveniencia Farma 19,Outras Equipes Externas,Externa,Conveniencia Farma 19,,,Alimento,,
+conveniencia farma 2,Conveniencia Farma 2,Conveniencia Farma 2,Outras Equipes Externas,Externa,Conveniencia Farma 2,,,Alimento,,
+conveniencia farma 2,Conveniencia Farma 2,Conveniencia Farma 2,Outras Equipes Externas,Externa,Conveniencia Farma 2,,,Alimento,,
+conveniencia farma 2,Conveniencia Farma 2,Conveniencia Farma 2,Outras Equipes Externas,Externa,Conveniencia Farma 2,,,Alimento,,
+conveniencia farma 6,Conveniencia Farma 6,Conveniencia Farma 6,Outras Equipes Externas,Externa,Conveniencia Farma 6,,,Alimento,,
+conveniencia farma 6,Conveniencia Farma 6,Conveniencia Farma 6,Outras Equipes Externas,Externa,Conveniencia Farma 6,,,Alimento,,
+conveniencia farma 7,Conveniencia Farma 7,Conveniencia Farma 7,Outras Equipes Externas,Externa,Conveniencia Farma 7,,,Alimento,,
+copacabana,Copacabana,Consumo Zona Norte,Outras Equipes Externas,Externa,Copacabana,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+especial consumo,ESPECIAL CONSUMO,Equipe Especial,Equipe Especial,Externa,Especial Consumo,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,True,
+encantado,Encantado,Consumo Zona Norte,Outras Equipes Externas,Externa,Encantado,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+encantado,Encantado,Consumo Zona Norte,Outras Equipes Externas,Externa,Encantado,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+flamengo,Flamengo,Consumo Zona Norte,Outras Equipes Externas,Externa,Flamengo,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+freguesia,Freguesia,Consumo Oeste,Outras Equipes Externas,Externa,Freguesia,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+gerente senior,GERENTE SENIOR,Gerente Senior,Outras Equipes Externas,Externa,,Marco Antonio Neves Suzart,,Alimento,,
+galeao,Galeão,Consumo Zona Norte,Outras Equipes Externas,Externa,Galeão,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+galeao,Galeão,Consumo Zona Norte,Outras Equipes Externas,Externa,Galeão,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+gavea/rocinha,Gavea/Rocinha,Gavea/Rocinha,Outras Equipes Externas,Externa,Gavea/Rocinha,,,Alimento,,
+gerencia med norte,Gerencia MED NORTE,Gerencia MED Norte,Outras Equipes Externas,Externa,,,,Alimento,,
+gerencia med sul,Gerencia Med Sul,Gerencia Med Sul,Outras Equipes Externas,Externa,,,,Alimento,,
+gerencia varejo i,Gerencia Varejo I,Gerencia Varejo I,Outras Equipes Externas,Externa,,,,Alimento,,
+gerentemed,GerenteMED,Gerentemed,Outras Equipes Externas,Externa,,,,Alimento,,
+gramacho,Gramacho,Consumo Baixada,Outras Equipes Externas,Externa,Gramacho,Marcelo Neves,,Alimento,False,Consumo Baixada
+gramacho,Gramacho,Consumo Baixada,Outras Equipes Externas,Externa,Gramacho,Marcelo Neves,,Alimento,False,Consumo Baixada
+gramacho,Gramacho,Consumo Baixada,Outras Equipes Externas,Externa,Gramacho,Marcelo Neves,,Alimento,False,Consumo Baixada
+guadalupe,Guadalupe,Guadalupe,Outras Equipes Externas,Externa,Guadalupe,,,Alimento,,
+guadalupe,Guadalupe,Guadalupe,Outras Equipes Externas,Externa,Guadalupe,,,Alimento,,
+guadalupe,Guadalupe,Guadalupe,Outras Equipes Externas,Externa,Guadalupe,,,Alimento,,
+guaratiba,Guaratiba,Consumo Oeste,Outras Equipes Externas,Externa,Guaratiba,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+guaratiba,Guaratiba,Consumo Oeste,Outras Equipes Externas,Externa,Guaratiba,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+guaratiba,Guaratiba,Consumo Oeste,Outras Equipes Externas,Externa,Guaratiba,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+guaratiba,Guaratiba,Consumo Oeste,Outras Equipes Externas,Externa,Guaratiba,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+guarus,Guarus,Guarus,Outras Equipes Externas,Externa,Guarus,,,Alimento,,
+guarus,Guarus,Guarus,Outras Equipes Externas,Externa,Guarus,,,Alimento,,
+guarus/sao francisco,Guarus/São Francisco,Guarus/São Francisco,Outras Equipes Externas,Externa,Guarus/São Francisco,,,Alimento,,
+impulso 01,Impulso 01,Equipe Especial,Equipe Especial,Externa,Impulso 01,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+impulso 01,Impulso 01,Equipe Especial,Equipe Especial,Externa,Impulso 01,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+impulso 02,Impulso 02,Equipe Especial,Equipe Especial,Externa,Impulso 02,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+impulso 02,Impulso 02,Equipe Especial,Equipe Especial,Externa,Impulso 02,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+inhauma,Inhauma,Inhauma,Outras Equipes Externas,Externa,Inhauma,,,Alimento,,
+inhoaiba,Inhoaíba,Consumo Oeste,Outras Equipes Externas,Externa,Inhoaíba,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+inhoaiba,Inhoaíba,Consumo Oeste,Outras Equipes Externas,Externa,Inhoaíba,Marcelo Neves,Marcelo Martins Da Costa,Alimento,False,Consumo Oeste
+itaborai,Itaborai,Itaborai,Outras Equipes Externas,Externa,Itaborai,,,Alimento,,
+itaperuna,Itaperuna,Itaperuna,Outras Equipes Externas,Externa,Itaperuna,,,Alimento,,
+itaperuna/miracema,Itaperuna/Miracema,Itaperuna/Miracema,Outras Equipes Externas,Externa,Itaperuna/Miracema,,,Alimento,,
+itatiaia,Itatiaia,Itatiaia,Outras Equipes Externas,Externa,Itatiaia,,,Alimento,,
+jacarepagua,Jacarepagua,Jacarepagua,Outras Equipes Externas,Externa,Jacarepagua,,,Alimento,,
+jacarepagua,Jacarepagua,Jacarepagua,Outras Equipes Externas,Externa,Jacarepagua,,,Alimento,,
+jacarepagua,Jacarepagua,Jacarepagua,Outras Equipes Externas,Externa,Jacarepagua,,,Alimento,,
+jacare,Jacaré,Consumo Zona Norte,Outras Equipes Externas,Externa,Jacaré,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+jacare,Jacaré,Consumo Zona Norte,Outras Equipes Externas,Externa,Jacaré,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+jardim iris,Jardim Iris,Consumo Baixada,Outras Equipes Externas,Externa,Jardim Iris,Marcelo Neves,,Alimento,False,Consumo Baixada
+jardim iris,Jardim Irís,Consumo Baixada,Outras Equipes Externas,Externa,Jardim Irís,Marcelo Neves,,Alimento,False,Consumo Baixada
+key account 2,Key Account 2,Key Account 2,Outras Equipes Externas,Externa,Key Account 2,,,Alimento,,
+key account 2,Key Account 2,Key Account 2,Outras Equipes Externas,Externa,Key Account 2,,,Alimento,,
+leopoldina,Leopoldina,Leopoldina,Outras Equipes Externas,Externa,Leopoldina,,,Alimento,,
+leopoldina,Leopoldina,Leopoldina,Outras Equipes Externas,Externa,Leopoldina,,,Alimento,,
+leopoldina,Leopoldina,Leopoldina,Outras Equipes Externas,Externa,Leopoldina,,,Alimento,,
+leopoldina,Leopoldina,Leopoldina,Outras Equipes Externas,Externa,Leopoldina,,,Alimento,,
+lote xv,Lote XV,Lote XV,Outras Equipes Externas,Externa,Lote XV,,,Alimento,,
+med lagos,MED LAGOS,MED Lagos,Outras Equipes Externas,Externa,MED Lagos,,,Alimento,,
+med lagos,MED LAGOS,MED Lagos,Outras Equipes Externas,Externa,MED Lagos,,,Alimento,,
+med lagos,MED LAGOS,MED Lagos,Outras Equipes Externas,Externa,MED Lagos,,,Alimento,,
+med norte,MED NORTE,MED Norte,Outras Equipes Externas,Externa,MED Norte,,,Alimento,,
+med norte,MED NORTE,MED Norte,Outras Equipes Externas,Externa,MED Norte,,,Alimento,,
+med norte,MED NORTE,MED Norte,Outras Equipes Externas,Externa,MED Norte,,,Alimento,,
+macae,Macaé,Macaé,Outras Equipes Externas,Externa,Macaé,,,Alimento,,
+macae,Macaé,Macaé,Outras Equipes Externas,Externa,Macaé,,,Alimento,,
+med baixada - queimados,Med Baixada - Queimados,Med Baixada - Queimados,Outras Equipes Externas,Externa,Med Baixada - Queimados,,,Alimento,,
+med oceanica,Med Oceânica,Med Oceânica,Outras Equipes Externas,Externa,Med Oceânica,,,Alimento,,
+med sudoeste,Med Sudoeste,Med Sudoeste,Outras Equipes Externas,Externa,Med Sudoeste,,,Alimento,,
+medrio,MedRio,Medrio,Outras Equipes Externas,Externa,Medrio,,,Alimento,,
+mesquita,Mesquita,Mesquita,Outras Equipes Externas,Externa,Mesquita,,,Alimento,,
+mesquita,Mesquita,Mesquita,Outras Equipes Externas,Externa,Mesquita,,,Alimento,,
+mesquita,Mesquita,Mesquita,Outras Equipes Externas,Externa,Mesquita,,,Alimento,,
+mesquita,Mesquita,Mesquita,Outras Equipes Externas,Externa,Mesquita,,,Alimento,,
+mesquita,Mesquita,Mesquita,Outras Equipes Externas,Externa,Mesquita,,,Alimento,,
+n iguacu,N Iguaçu,N Iguaçu,Outras Equipes Externas,Externa,N Iguaçu,,,Alimento,,
+n iguacu 2,N Iguaçu 2,N Iguaçu 2,Outras Equipes Externas,Externa,N Iguaçu 2,,,Alimento,,
+niteroi 2,Niteroi 2,Niteroi 2,Outras Equipes Externas,Externa,Niteroi 2,,,Alimento,,
+nova iguacu i,Nova Iguaçu I,Consumo Baixada,Outras Equipes Externas,Externa,Nova Iguaçu I,Marcelo Neves,,Alimento,False,Consumo Baixada
+olinda,Olinda,Consumo Baixada,Outras Equipes Externas,Externa,Olinda,Marcelo Neves,,Alimento,False,Consumo Baixada
+olinda,Olinda,Consumo Baixada,Outras Equipes Externas,Externa,Olinda,Marcelo Neves,,Alimento,False,Consumo Baixada
+olinda,Olinda,Consumo Baixada,Outras Equipes Externas,Externa,Olinda,Marcelo Neves,,Alimento,False,Consumo Baixada
+promotor ali,PROMOTOR ALI,Promotor ALI,Outras Equipes Externas,Externa,,,,Alimento,,
+promotor ali,PROMOTOR ALI,Promotor ALI,Outras Equipes Externas,Externa,,,,Alimento,,
+promotor ali,PROMOTOR ALI,Promotor ALI,Outras Equipes Externas,Externa,,,,Alimento,,
+paciencia,Paciência,Paciência,Outras Equipes Externas,Externa,Paciência,,,Alimento,,
+pavuna,Pavuna,Pavuna,Outras Equipes Externas,Externa,Pavuna,,,Alimento,,
+promotor key account,Promotor Key Account,Promotor Key Account,Outras Equipes Externas,Externa,,,,Alimento,,
+queimados,Queimados,Queimados,Outras Equipes Externas,Externa,Queimados,,,Alimento,,
+queimados,Queimados,Queimados,Outras Equipes Externas,Externa,Queimados,,,Alimento,,
+realengo,Realengo,Realengo,Outras Equipes Externas,Externa,Realengo,,,Alimento,,
+recreio,Recreio,Recreio,Outras Equipes Externas,Externa,Recreio,,,Alimento,,
+recreio / jd. america,Recreio / Jd. América,Recreio/Jd. América,Outras Equipes Externas,Externa,Recreio/Jd. América,,,Alimento,,
+rede especial 2,Rede Especial 2,Equipe Especial,Equipe Especial,Externa,Rede Especial 2,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+rede especial 3,Rede Especial 3,Equipe Especial,Equipe Especial,Externa,Rede Especial 3,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+rede especial 4,Rede Especial 4,Equipe Especial,Equipe Especial,Externa,Rede Especial 4,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+rede especial 4,Rede Especial 4,Equipe Especial,Equipe Especial,Externa,Rede Especial 4,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+regiao oceanica / marica,Região Oceânica / Marica,Região Oceânica/Marica,Outras Equipes Externas,Externa,Região Oceânica/Marica,,,Alimento,,
+rio das ostras,Rio Das Ostras,Rio Das Ostras,Outras Equipes Externas,Externa,Rio Das Ostras,,,Alimento,,
+rio das ostras,Rio das Ostras,Rio Das Ostras,Outras Equipes Externas,Externa,Rio Das Ostras,,,Alimento,,
+rio das ostras,Rio das Ostras,Rio Das Ostras,Outras Equipes Externas,Externa,Rio Das Ostras,,,Alimento,,
+rio das ostras,Rio das Ostras,Rio Das Ostras,Outras Equipes Externas,Externa,Rio Das Ostras,,,Alimento,,
+rota especial 1,Rota Especial 1,Equipe Especial,Equipe Especial,Externa,Rota Especial 1,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+rota especial 2,Rota Especial 2,Equipe Especial,Equipe Especial,Externa,Rota Especial 2,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+rota especial 3,Rota Especial 3,Equipe Especial,Equipe Especial,Externa,Rota Especial 3,Marco Antonio Neves Suzart,Ricardo Cascao,Alimento,False,Equipe Especial
+s j meriti,S J Meriti,S J Meriti,Outras Equipes Externas,Externa,S J Meriti,,,Alimento,,
+s j meriti,S J Meriti,S J Meriti,Outras Equipes Externas,Externa,S J Meriti,,,Alimento,,
+s j meriti,S J Meriti,S J Meriti,Outras Equipes Externas,Externa,S J Meriti,,,Alimento,,
+sem equipe,Sem Equipe,Sem Equipe,Equipe Interna,Interna,Sem Equipe,,,Alimento,,
+sem equipe,Sem Equipe,Sem Equipe,Outras Equipes Externas,Externa,Sem Equipe,,,Alimento,,
+senador vasconselos,Senador Vasconselos,Senador Vasconselos,Outras Equipes Externas,Externa,Senador Vasconselos,,,Alimento,,
+senador vasconselos,Senador Vasconselos,Senador Vasconselos,Outras Equipes Externas,Externa,Senador Vasconselos,,,Alimento,,
+sepetiba,Sepetiba,Sepetiba,Outras Equipes Externas,Externa,Sepetiba,,,Alimento,,
+supervisor(a) de trade marketing,Supervisor(a) De Trade Marketing,Supervisor(a) De Trade Marketing,Outras Equipes Externas,Externa,,,,Alimento,,
+sao cristovao,São Cristóvão,Consumo Zona Norte,Outras Equipes Externas,Externa,São Cristóvão,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+sao goncalo,São Gonçalo,Consumo Niteroi,Outras Equipes Externas,Externa,São Gonçalo,Marcelo Neves,Fabio Antonio Rosa Magalhaes,Alimento,False,Consumo Niteroi
+sao goncalo,São Gonçalo,Consumo Niteroi,Outras Equipes Externas,Externa,São Gonçalo,Marcelo Neves,Fabio Antonio Rosa Magalhaes,Alimento,False,Consumo Niteroi
+tijuca,Tijuca,Consumo Zona Norte,Outras Equipes Externas,Externa,Tijuca,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+tres rios,Três Rios,Três Rios,Outras Equipes Externas,Externa,Três Rios,,,Alimento,,
+tres rios,Três Rios,Três Rios,Outras Equipes Externas,Externa,Três Rios,,,Alimento,,
+tres rios,Três Rios,Três Rios,Outras Equipes Externas,Externa,Três Rios,,,Alimento,,
+valqueire,Valqueire,Valqueire,Outras Equipes Externas,Externa,Valqueire,,,Alimento,,
+vidigal,Vidigal,Consumo Zona Norte,Outras Equipes Externas,Externa,Vidigal,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+vidigal,Vidigal,Consumo Zona Norte,Outras Equipes Externas,Externa,Vidigal,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+vidigal,Vidigal,Consumo Zona Norte,Outras Equipes Externas,Externa,Vidigal,Marcelo Neves,Paulo Roberto Ferreira Chaves,Alimento,False,Consumo Zona Norte
+vila de cava,Vila de Cava,Consumo Baixada,Outras Equipes Externas,Externa,Vila De Cava,Marcelo Neves,,Alimento,False,Consumo Baixada
+volta redonda,Volta Redonda,Volta Redonda,Outras Equipes Externas,Externa,Volta Redonda,,,Alimento,,
+volta redonda,Volta Redonda,Volta Redonda,Outras Equipes Externas,Externa,Volta Redonda,,,Alimento,,
+xerem,Xerem,Xerem,Outras Equipes Externas,Externa,Xerem,,,Alimento,,

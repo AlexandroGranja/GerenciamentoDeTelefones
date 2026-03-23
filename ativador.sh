@@ -23,34 +23,24 @@ echo ""
 
 # Criar ambiente virtual
 if [ ! -f ".venv/bin/activate" ]; then
-    echo "[1/4] Criando ambiente virtual..."
+    echo "[1/3] Criando ambiente virtual..."
     $PYTHON_CMD -m venv .venv
     echo "[OK] Ambiente virtual criado."
 else
-    echo "[1/4] Ambiente virtual ja existe."
+    echo "[1/3] Ambiente virtual ja existe."
 fi
 echo ""
 
 # Instalar dependências
-echo "[2/4] Instalando dependencias..."
+echo "[2/3] Instalando dependencias..."
 source .venv/bin/activate
 pip install --upgrade pip -q
 pip install -r requirements.txt -q
 echo "[OK] Dependencias instaladas."
 echo ""
 
-# Sincronizar banco
-echo "[3/4] Sincronizando banco de dados..."
-python -m scripts.sync_db 2>/dev/null
-if [ $? -ne 0 ]; then
-    echo "[AVISO] Sincronizacao falhou. Sincronize em Config ao abrir o app."
-else
-    echo "[OK] Banco sincronizado."
-fi
-echo ""
-
 # Iniciar aplicação
-echo "[4/4] Iniciando aplicacao..."
+echo "[3/3] Iniciando aplicacao..."
 echo ""
 echo "Acesse: http://localhost:8501 (ou use o IP do servidor)"
 echo "Pressione Ctrl+C para encerrar."

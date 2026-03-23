@@ -3,3 +3,7 @@ pandas
 openpyxl
 streamlit-cookies-manager-v2
 cryptography
+psycopg[binary]
+python-dotenv
+fastapi
+uvicorn[standard]

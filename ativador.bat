@@ -26,7 +26,7 @@ python --version
 echo.
 
 if not exist ".venv\Scripts\python.exe" (
-    echo [1/4] Criando ambiente virtual...
+    echo [1/3] Criando ambiente virtual...
     python -m venv .venv
     if errorlevel 1 (
         echo [ERRO] Falha ao criar ambiente virtual.
@@ -35,11 +35,11 @@ if not exist ".venv\Scripts\python.exe" (
     )
     echo [OK] Ambiente virtual criado.
 ) else (
-    echo [1/4] Ambiente virtual ja existe.
+    echo [1/3] Ambiente virtual ja existe.
 )
 echo.
 
-echo [2/4] Instalando dependencias...
+echo [2/3] Instalando dependencias...
 .venv\Scripts\python.exe -m pip install --upgrade pip -q
 .venv\Scripts\pip.exe install -r requirements.txt -q
 if errorlevel 1 (
@@ -50,16 +50,7 @@ if errorlevel 1 (
 echo [OK] Dependencias instaladas.
 echo.
 
-echo [3/4] Sincronizando banco de dados...
-.venv\Scripts\python.exe -m scripts.sync_db 2>nul
-if errorlevel 1 (
-    echo [AVISO] Sincronizacao falhou. Sincronize em Config ao abrir o app.
-) else (
-    echo [OK] Banco sincronizado.
-)
-echo.
-
-echo [4/4] Iniciando aplicacao...
+echo [3/3] Iniciando aplicacao...
 echo.
 echo Abrindo em: http://localhost:8501
 echo Pressione Ctrl+C para encerrar.
